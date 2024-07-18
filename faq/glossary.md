@@ -22,6 +22,14 @@ Free to access and participate for anyone without arbitrary restrictions.
 
 <details>
 
+<summary>Random Truth Sampling</summary>
+
+The process by which real world events are independently verified. A random selection of users is asked to verify events as they happened in the real world. Honest behaviour will be rewarded. Dishonest behaviour will be punished.
+
+</details>
+
+<details>
+
 <summary>Zero Knowledge Proofs</summary>
 
 A method to proof a fact without revealing its underlying information, e.g. proving to be a citizen without revealing a passport document as a whole.

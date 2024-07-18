@@ -26,9 +26,9 @@ Reputation can be bought by depositing ETH into a smart contract.
 
 <mark style="color:blue;">**`extended`**</mark>
 
-It is important for reputation to be inherently valuable in the real world. Users will only act with care in an adversarial system if they have something precious to lose.&#x20;
+It is important for reputation to be inherently valuable in the real world. Users will only act with care in an adversarial environment if they have something precious to lose.&#x20;
 
-Every user receives an initial minimum amount of reputation to begin with. Every user has to start with the bare minimum without exceptions. Upon participating in Uvio's prediction markets, reputation may be gained and lost. Therefore reputation can always be bought in order to maintain a minimum amount of reputation that enables every user to participate in the system.
+Every user receives an initial minimum amount of reputation to begin with. Every user has to start with the bare minimum, without exceptions. Upon participating in Uvio's prediction markets, reputation may be gained and lost. Therefore reputation can always be bought, in order to maintain a minimum amount of reputation that enables every user to participate in the system.
 
 </details>
 
