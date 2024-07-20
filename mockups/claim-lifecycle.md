@@ -20,6 +20,6 @@ Staking reputation on a claim may be accompanied with a comment. Given any claim
 
 #### Claim Lifecycle
 
-The lifecycle of every claim starts with proposing it in the first place. Actions related to proposed claims may be taken in response to said proposed claims. Those actions may intent to resolve, dispute or nullify proposed claims. Note that resolving, disputing and nullifying any claim may be done by proposing those very reactionary claims themselves. That way any action on Uvio may be a claim to begin with.
+Maybe most important to understand is the circular nature of escalation. Everything is just a claim with two options. Where expressing opinions can be done proportional to a user's balance, verifying the truth can only be done once per user as in "one user one vote". Claims can be disputed with ever higher stakes. The action space shown below is linear where claims can be proposed, resolved, proposed, resolved etc. Just note that proposing a claim on a resolving claim is called a dispute.
 
-<figure><img src="../.gitbook/assets/Screenshot 2024-07-14 at 21.48.35.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2024-07-20 at 19.10.27.png" alt=""><figcaption></figcaption></figure>
