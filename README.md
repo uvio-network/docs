@@ -14,9 +14,11 @@ Uvio shows you what's real.
 
 <mark style="color:blue;">**`extended`**</mark>
 
-The term "uvio" is a short version of ultra-violet. The colour purple is Uvio's brand origin, because when you mix red and blue together, then you get the colour purple. In US politics you have a two party system. The democrats are blue and the republicans are red. And somewhere in between those lines we ought to find what's right and real. Somewhere in between red and blue there is purple.
+Our north star is to surface who is right and who is honest. And we do that using the powerful mechanics of "prediction markets". We could say Uvio is a social network for prediction markets. On the surface, Uvio is structured like any other social media platform. Users can post content and follow content from other users.&#x20;
 
-On the surface, Uvio is structured like any other social media platform. Users can post content and follow content from other users. The difference on Uvio is that when users post what we call [Claims](faq/claims.md), then they stake their [Reputation](faq/reputation.md) with those claims. Eventually the community resolves claims by staking reputation in agreement or disagreement with those claims, based on the outcomes in the real world. Once claims have been resolved, the staked reputation is transferred from those who were wrong to those who were right. For understanding better how Uvio determines who is right or wrong, please read [How to resolve a Claim](faq/claims.md#how-to-resolve-a-claim).
+The difference on Uvio is that when users post what we call [Claims](faq/claims.md), then they stake their [Reputation](faq/reputation.md) with those claims. Eventually the community resolves claims based on events in the real world. And once claims have been resolved, the staked reputation is transferred from those who were wrong to those who were right. For understanding better how Uvio determines who is right or wrong, please read [How to resolve a Claim](faq/claims.md#how-to-resolve-a-claim).
+
+Also good to know, the term "uvio" is a short version of ultra-violet. The colour purple is Uvio's brand origin, because when you mix red and blue together, then you get the colour purple. In US politics you have a two party system. The democrats are blue and the republicans are red. And somewhere in between those lines we ought to find what's right and real. Somewhere in between red and blue there is purple.
 
 </details>
 
