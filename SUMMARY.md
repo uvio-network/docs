@@ -8,3 +8,5 @@
 * [Mockups](mockups/README.md)
   * [Claim Lifecycle](mockups/claim-lifecycle.md)
   * [Use Cases](mockups/use-cases.md)
+* [Contracts](contracts/README.md)
+  * [Base Sepolia](contracts/base-sepolia.md)
