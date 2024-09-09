@@ -2,12 +2,12 @@
 
 <details>
 
-<summary>Claims</summary>
+<summary>Claims (UVX)</summary>
 
-[<mark style="color:purple;">**address**</mark>](https://sepolia.basescan.org/address/0x597a3cca0e28c6ce7c4c73c043cfba9de688af2e)
+[<mark style="color:purple;">**address**</mark>](https://sepolia.basescan.org/address/0xc4E6559DBc61f59C713d8d6CD7a819c429Df076a)
 
 ```
-0x597a3cCA0e28C6cE7c4C73c043CFba9de688AF2E
+0xc4E6559DBc61f59C713d8d6CD7a819c429Df076a
 ```
 
 <mark style="color:purple;">**command**</mark>
@@ -19,7 +19,7 @@ npx hardhat ignition deploy ./ignition/modules/Claims.ts --network base-sepolia
 <mark style="color:purple;">**arguments**</mark>
 
 ```
-["0xEFb36B2D443C5A6Ff4127cDa30944A12B421b9C2", "0x365729071Bf39eAAecF5f6fF4A045Bb324a2EDdd"]
+["0xEFb36B2D443C5A6Ff4127cDa30944A12B421b9C2", "0xbf924c7081951a52c54836CB05637D8c4C77502d"]
 ```
 
 </details>
@@ -52,10 +52,10 @@ npx hardhat ignition deploy ./ignition/modules/Stablecoin.ts --network base-sepo
 
 <summary>UVX</summary>
 
-[<mark style="color:purple;">**address**</mark>](https://sepolia.basescan.org/address/0x365729071bf39eaaecf5f6ff4a045bb324a2eddd)
+[<mark style="color:purple;">**address**</mark>](https://sepolia.basescan.org/address/0xbf924c7081951a52c54836CB05637D8c4C77502d)
 
 ```
-0x365729071Bf39eAAecF5f6fF4A045Bb324a2EDdd
+0xbf924c7081951a52c54836CB05637D8c4C77502d
 ```
 
 <mark style="color:purple;">**command**</mark>
