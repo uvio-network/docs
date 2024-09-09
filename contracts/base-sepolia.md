@@ -19,7 +19,7 @@ npx hardhat ignition deploy ./ignition/modules/Claims.ts --network base-sepolia
 <mark style="color:purple;">**arguments**</mark>
 
 ```
-["0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266", "0x365729071Bf39eAAecF5f6fF4A045Bb324a2EDdd"]
+["0xEFb36B2D443C5A6Ff4127cDa30944A12B421b9C2", "0x365729071Bf39eAAecF5f6fF4A045Bb324a2EDdd"]
 ```
 
 </details>
@@ -67,7 +67,7 @@ npx hardhat ignition deploy ./ignition/modules/UVX.ts --network base-sepolia
 <mark style="color:purple;">**arguments**</mark>
 
 ```
-["0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266", "0x7FC9a5730381DdF44C7D762d82A4aabC90fAE786"]
+["0xEFb36B2D443C5A6Ff4127cDa30944A12B421b9C2", "0x7FC9a5730381DdF44C7D762d82A4aabC90fAE786"]
 ```
 
 </details>
