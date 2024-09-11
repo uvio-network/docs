@@ -2,7 +2,7 @@
 
 <details>
 
-<summary>Claims (UVX)</summary>
+<summary>Claims-UVX</summary>
 
 [<mark style="color:purple;">**address**</mark>](https://sepolia.basescan.org/address/0x48455E0c620D46239BE9358C9B2Bd6D0bf1F3AA6)
 
@@ -25,6 +25,41 @@ npx hardhat ignition deploy ./ignition/modules/Claims.ts --network base-sepolia
 
 ```
 npx hardhat verify --network base-sepolia 0x48455E0c620D46239BE9358C9B2Bd6D0bf1F3AA6 "0xEFb36B2D443C5A6Ff4127cDa30944A12B421b9C2" "0x04Ec0582e2700Db583e3BCb9b913D181Ac2D68A8"
+```
+
+[<mark style="color:purple;">**version**</mark>](https://github.com/uvio-network/contracts/blob/v0.2.0/contracts/Claims.sol)
+
+```
+v0.2.0
+```
+
+</details>
+
+<details>
+
+<summary>Claims-WETH</summary>
+
+[<mark style="color:purple;">**address**</mark>](https://sepolia.basescan.org/address/0x6Ed3CD11d2DeBbc08a2d36D1da57eBF3dFA02a8D)
+
+```
+0x6Ed3CD11d2DeBbc08a2d36D1da57eBF3dFA02a8D
+```
+
+<mark style="color:purple;">**deployment**</mark>
+
+```
+npx hardhat ignition deploy ./ignition/modules/Claims.ts --network base-sepolia
+```
+
+<mark style="color:purple;">**arguments**</mark>
+
+<pre><code><strong>["0xEFb36B2D443C5A6Ff4127cDa30944A12B421b9C2", "0x4200000000000000000000000000000000000006"]
+</strong></code></pre>
+
+<mark style="color:purple;">**verification**</mark>
+
+```
+npx hardhat verify --network base-sepolia 0x6Ed3CD11d2DeBbc08a2d36D1da57eBF3dFA02a8D "0xEFb36B2D443C5A6Ff4127cDa30944A12B421b9C2" "0x4200000000000000000000000000000000000006"
 ```
 
 [<mark style="color:purple;">**version**</mark>](https://github.com/uvio-network/contracts/blob/v0.2.0/contracts/Claims.sol)
@@ -96,6 +131,18 @@ npx hardhat verify --network base-sepolia 0x04Ec0582e2700Db583e3BCb9b913D181Ac2D
 
 ```
 v0.2.0
+```
+
+</details>
+
+<details>
+
+<summary>WETH</summary>
+
+[<mark style="color:purple;">**address**</mark>](https://sepolia.basescan.org/address/0x4200000000000000000000000000000000000006)
+
+```
+0x4200000000000000000000000000000000000006
 ```
 
 </details>
