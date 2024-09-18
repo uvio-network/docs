@@ -1,5 +1,9 @@
 # Claim Lifecycle
 
+{% hint style="info" %}
+The following pages contain structural key elements of Uvio's intended design and workflow. Mockups provided explain various ideas about the intended reputation system in varying detail. While incomplete, the following graphics are hopefully sufficient to provide a basis for more conversations and design iterations towards a functional prototype of the platform.
+{% endhint %}
+
 #### Proposing a Claim
 
 The first and one of the most fundamental actions on Uvio is to propose a claim. Every proposed claim effectively creates a prediction market for the statement being made. And since proposing a claim is permissionless, creating prediction markets on Uvio is permissionless too.
