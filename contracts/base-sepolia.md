@@ -96,8 +96,9 @@ npx hardhat ignition deploy ./ignition/modules/Stablecoin.ts --network base-sepo
 
 <mark style="color:purple;">**verification**</mark>
 
-<pre><code><strong>npx hardhat verify --network base-sepolia 0x7FC9a5730381DdF44C7D762d82A4aabC90fAE786 "6"
-</strong></code></pre>
+```
+npx hardhat verify --network base-sepolia 0x7FC9a5730381DdF44C7D762d82A4aabC90fAE786 "6"
+```
 
 </details>
 
