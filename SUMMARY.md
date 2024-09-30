@@ -18,6 +18,12 @@
 
 * [Base Sepolia](contracts/base-sepolia.md)
 
+## BATTLE STORIES
+
+* [Trigger Resolve](battle-stories/trigger-resolve.md)
+
 ## Links
 
+* [Discord](https://discord.gg/fbkrSR44hr)
 * [Github](https://github.com/uvio-network)
+* [Testnet](https://testnet.uvio.network)
