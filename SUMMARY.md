@@ -4,6 +4,7 @@
 
 * [Uvio](README.md)
 * [Claims](faq/claims.md)
+* [Comments](faq/comments.md)
 * [Proofs](faq/proofs.md)
 * [Reputation](faq/reputation.md)
 * [Glossary](faq/glossary.md)

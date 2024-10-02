@@ -1,4 +1,4 @@
-# FAQ
+# Uvio
 
 {% hint style="info" %}
 Click on the icon to expand the question. For each question there is a section called <mark style="color:green;">**`oneliner`**</mark> and <mark style="color:blue;">**`extended`**</mark>. These sections are for short and long answers. Read the long form answer if you want a more technical deep dive.
@@ -77,9 +77,9 @@ Polymarket is designed to ask questions, which tend to have complex sets of poss
 
 In reality any amount of complexity in asking questions inevitably increases the potential for various forms of MEV. Because of this increased MEV surface area we can point to examples of misunderstandings, mistakes, contention, politics, conflict and centralization when attempting to resolve prediction markets on Polymarket. Further, Polymarket volume might be rather meaningless, given that odds and volume do not seem to correlate at all.
 
-Uvio is designed to make truth statements, which are independently verifiable upon expiry. The result of a truth statement is either true or false. Carefully designing truth statements makes it easy to agree or disagree with, given a certain point of view. And most importantly, Uvio is designed to dispute or nullify any truth statement that cannot be answered with either yes or no eventually. Those kinds of mechanisms set Uvio apart in a way where the reputation gained on the Uvio platform can actually be trusted to a great extend. Because Uvio keeps track of competence and integrity, meaning on Uvio we know who is right, and who is honest.
+Uvio is designed to make truth statements, which are independently verifiable upon expiry. The result of a truth statement is either true or false. Carefully designing truth statements makes it easy to agree or disagree with, given a certain point of view. And most importantly, Uvio is designed to dispute any truth statement eventually, that cannot be answered with either yes or no. Those kinds of mechanisms set Uvio apart in a way where the reputation gained on the Uvio platform can actually be trusted to a great extend. Because Uvio keeps track of _competence_ and _integrity_, meaning on Uvio we know who is _right_, and who is _honest_.
 
-The creation of prediction markets is decentralized on Uvio, where it is centralized on Polymarket. On Uvio, the users decide which claims to propose, because they are automatically staking their own reputation with the prediction markets they themselves create. And if they are not creating them carefully, their reputation may be taxed for violating the rules of the game.
+The creation of information markets is decentralized on Uvio, whereas the creation of prediction markets is centralized on Polymarket. On Uvio, the users decide which claims to propose, because they are automatically staking their own reputation with the information markets they themselves create. And if they are not creating them carefully, their reputation may be taxed for violating the rules of the game.
 
 </details>
 
@@ -93,6 +93,6 @@ Yes, because Uvio is designed to benefit from fee based revenue streams.
 
 <mark style="color:blue;">**`extended`**</mark>
 
-Uvio defines a simple action space. This action space is so generic that Uvio's platform usage may scale by orders of magnitude. For instance, Uvio can earn fees from the volume on every market. And further, users may be asked to pay a fee in order to dispute or nullify any given claim. A challenge fee like that may even be useful to deter malicious actors from creating many ill-intended claims, whose sole purpose would otherwise be to extract their own form of MEV.
+Uvio defines a simple action space. This action space is so generic that Uvio's platform usage may scale by orders of magnitude. For instance, the Uvio platform may earn fees from the resolution volume on every market. More claims proposed on Uvio imply more fees earned.
 
 </details>
