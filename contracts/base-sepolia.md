@@ -1,7 +1,5 @@
 # Base Sepolia
 
-
-
 <details>
 
 <summary>Claims-UVX (v0.4.0)</summary>
@@ -42,31 +40,31 @@ v0.4.0
 
 <summary>Claims-UVX (v0.5.0)</summary>
 
-[<mark style="color:purple;">address</mark>](https://sepolia.basescan.org/address/0x206ab72edea55819a9a90622873976A79d3419E3)
+[<mark style="color:purple;">**address**</mark>](https://sepolia.basescan.org/address/0x206ab72edea55819a9a90622873976A79d3419E3)
 
 ```
 0x206ab72edea55819a9a90622873976A79d3419E3
 ```
 
-<mark style="color:purple;">deployment</mark>
+<mark style="color:purple;">**deployment**</mark>
 
 ```
 npx hardhat ignition deploy ./ignition/modules/testnet/Claims.ts --network base-sepolia
 ```
 
-<mark style="color:purple;">arguments</mark>
+<mark style="color:purple;">**arguments**</mark>
 
 ```
 ["0xEFb36B2D443C5A6Ff4127cDa30944A12B421b9C2", "0x484C32b1288A88A48F8e7D20173a1048589Df182"]
 ```
 
-<mark style="color:purple;">verification</mark>
+<mark style="color:purple;">**verification**</mark>
 
 ```
 npx hardhat verify --network base-sepolia 0x206ab72edea55819a9a90622873976A79d3419E3 "0xEFb36B2D443C5A6Ff4127cDa30944A12B421b9C2" "0x484C32b1288A88A48F8e7D20173a1048589Df182"
 ```
 
-[<mark style="color:purple;">version</mark>](https://github.com/uvio-network/contracts/tree/v0.5.0)
+[<mark style="color:purple;">**version**</mark>](https://github.com/uvio-network/contracts/blob/v0.5.0/contracts/Claims.sol)
 
 ```
 v0.5.0
@@ -76,7 +74,7 @@ v0.5.0
 
 <details>
 
-<summary>Claims-WETH</summary>
+<summary>Claims-WETH (v0.4.0)</summary>
 
 [<mark style="color:purple;">**address**</mark>](https://sepolia.basescan.org/address/0x057a91c0010f35F3aC937a5a47a2869d477D1937)
 
@@ -106,6 +104,42 @@ npx hardhat verify --network base-sepolia 0x057a91c0010f35F3aC937a5a47a2869d477D
 
 ```
 v0.4.0
+```
+
+</details>
+
+<details>
+
+<summary>Claims-WETH (v0.5.0)</summary>
+
+[<mark style="color:purple;">**address**</mark>](https://sepolia.basescan.org/address/0xf30593ffe830780fE969CB5Ddb1201A2F3281aE9)
+
+```
+0xf30593ffe830780fE969CB5Ddb1201A2F3281aE9
+```
+
+<mark style="color:purple;">**deployment**</mark>
+
+```
+npx hardhat ignition deploy ./ignition/modules/testnet/Claims.ts --network base-sepolia
+```
+
+<mark style="color:purple;">**arguments**</mark>
+
+```
+["0xEFb36B2D443C5A6Ff4127cDa30944A12B421b9C2", "0x4200000000000000000000000000000000000006"]
+```
+
+<mark style="color:purple;">**verification**</mark>
+
+```
+npx hardhat verify --network base-sepolia 0xf30593ffe830780fE969CB5Ddb1201A2F3281aE9 "0xEFb36B2D443C5A6Ff4127cDa30944A12B421b9C2" "0x4200000000000000000000000000000000000006"
+```
+
+[<mark style="color:purple;">**version**</mark>](https://github.com/uvio-network/contracts/blob/v0.5.0/contracts/Claims.sol)
+
+```
+v0.5.0
 ```
 
 </details>
