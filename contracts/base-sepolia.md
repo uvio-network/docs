@@ -1,8 +1,10 @@
 # Base Sepolia
 
+
+
 <details>
 
-<summary>Claims-UVX</summary>
+<summary>Claims-UVX (v0.4.0)</summary>
 
 [<mark style="color:purple;">**address**</mark>](https://sepolia.basescan.org/address/0x537cE8e9F4Cce5a1D8033B63f274187157a966b3)
 
@@ -13,7 +15,7 @@
 <mark style="color:purple;">**deployment**</mark>
 
 ```
-npx hardhat ignition deploy ./ignition/modules/Claims.ts --network base-sepolia
+npx hardhat ignition deploy ./ignition/modules/testnet/Claims.ts --network base-sepolia
 ```
 
 <mark style="color:purple;">**arguments**</mark>
@@ -38,6 +40,42 @@ v0.4.0
 
 <details>
 
+<summary>Claims-UVX (v0.5.0)</summary>
+
+[<mark style="color:purple;">address</mark>](https://sepolia.basescan.org/address/0x206ab72edea55819a9a90622873976A79d3419E3)
+
+```
+0x206ab72edea55819a9a90622873976A79d3419E3
+```
+
+<mark style="color:purple;">deployment</mark>
+
+```
+npx hardhat ignition deploy ./ignition/modules/testnet/Claims.ts --network base-sepolia
+```
+
+<mark style="color:purple;">arguments</mark>
+
+```
+["0xEFb36B2D443C5A6Ff4127cDa30944A12B421b9C2", "0x484C32b1288A88A48F8e7D20173a1048589Df182"]
+```
+
+<mark style="color:purple;">verification</mark>
+
+```
+npx hardhat verify --network base-sepolia 0x206ab72edea55819a9a90622873976A79d3419E3 "0xEFb36B2D443C5A6Ff4127cDa30944A12B421b9C2" "0x484C32b1288A88A48F8e7D20173a1048589Df182"
+```
+
+[<mark style="color:purple;">version</mark>](https://github.com/uvio-network/contracts/tree/v0.5.0)
+
+```
+v0.5.0
+```
+
+</details>
+
+<details>
+
 <summary>Claims-WETH</summary>
 
 [<mark style="color:purple;">**address**</mark>](https://sepolia.basescan.org/address/0x057a91c0010f35F3aC937a5a47a2869d477D1937)
@@ -49,7 +87,7 @@ v0.4.0
 <mark style="color:purple;">**deployment**</mark>
 
 ```
-npx hardhat ignition deploy ./ignition/modules/Claims.ts --network base-sepolia
+npx hardhat ignition deploy ./ignition/modules/testnet/Claims.ts --network base-sepolia
 ```
 
 <mark style="color:purple;">**arguments**</mark>
@@ -85,7 +123,7 @@ v0.4.0
 <mark style="color:purple;">**command**</mark>
 
 ```
-npx hardhat ignition deploy ./ignition/modules/Stablecoin.ts --network base-sepolia
+npx hardhat ignition deploy ./ignition/modules/testnet/Stablecoin.ts --network base-sepolia
 ```
 
 <mark style="color:purple;">**arguments**</mark>
@@ -115,7 +153,7 @@ npx hardhat verify --network base-sepolia 0x7FC9a5730381DdF44C7D762d82A4aabC90fA
 <mark style="color:purple;">**command**</mark>
 
 ```
-npx hardhat ignition deploy ./ignition/modules/UVX.ts --network base-sepolia
+npx hardhat ignition deploy ./ignition/modules/testnet/UVX.ts --network base-sepolia
 ```
 
 <mark style="color:purple;">**arguments**</mark>
