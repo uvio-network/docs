@@ -11,7 +11,8 @@
 
 ## Mockups
 
-* [Demo Video](mockups/demo-video.md)
+* [Onboarding Video](mockups/onboarding-video.md)
+* [Voting Video](mockups/voting-video.md)
 * [Claim Lifecycle](mockups/claim-lifecycle.md)
 * [Use Cases](mockups/use-cases.md)
 
