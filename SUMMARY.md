@@ -23,6 +23,7 @@
 ## BATTLE STORIES
 
 * [Delete Pending](battle-stories/delete-pending.md)
+* [Emit Task](battle-stories/emit-task.md)
 * [Trigger Resolve](battle-stories/trigger-resolve.md)
 
 ## Links
