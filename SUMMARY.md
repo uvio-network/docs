@@ -9,12 +9,10 @@
 * [Reputation](faq/reputation.md)
 * [Glossary](faq/glossary.md)
 
-## Mockups
+## Demo
 
-* [Onboarding Video](mockups/onboarding-video.md)
-* [Voting Video](mockups/voting-video.md)
-* [Claim Lifecycle](mockups/claim-lifecycle.md)
-* [Use Cases](mockups/use-cases.md)
+* [Onboarding Video](demo/onboarding-video.md)
+* [Voting Video](demo/voting-video.md)
 
 ## Contracts
 
