@@ -14,6 +14,14 @@
 * [Onboarding Video](demo/onboarding-video.md)
 * [Voting Video](demo/voting-video.md)
 
+## Markdown
+
+* [Titles](markdown/titles.md)
+* [Links](markdown/links.md)
+* [Lists](markdown/lists.md)
+* [Quotes](markdown/quotes.md)
+* [Text](markdown/text.md)
+
 ## Contracts
 
 * [Base Sepolia](contracts/base-sepolia.md)
