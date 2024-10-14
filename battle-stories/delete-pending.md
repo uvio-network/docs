@@ -5,7 +5,7 @@ When we added support for multiple contract versions, we ran into the issue that
 * Never delete the post object first. Always delete the vote object first.
 * Use the curl script below against the \`post\` and \`vote\` APIs, given your personal JWT.
 
-```
+```bash
 curl 
     -s 
     --request 'POST' 
@@ -23,7 +23,7 @@ curl
     https://api.testnet.uvio.network/vote.API/Delete | jq .
 ```
 
-```
+```json
 {
     "filter":null,
     "object":[
